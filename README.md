@@ -1,8 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/26521156/ReadMe.md)## Hi there 👋
-
-<!--
-**Darsheels/Darsheels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Uploading Rea# 💫 About Me:
+# 💫 About Me:
 I am a teenage developer , who has worked on multiple types of projects from building websites in JS , HTML and CSS through React , Express and SQL databases to building applications and videogames in python using libraries called Pygame and Tkinter. I am currently working on a game in python, I am still learning things every day and I would love to work and collaborate on other projects to learn even more  
 
 
@@ -19,16 +15,4 @@ I am a teenage developer , who has worked on multiple types of projects from bui
 ---
 [![](https://visitcount.itsvg.in/api?id=Darsheels &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->dMe.md…]()
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
